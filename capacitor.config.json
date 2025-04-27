@@ -1,0 +1,5 @@
+{
+  "appId": "com.smartweather.app",
+  "appName": "SmartWeather",
+  "webDir": "npm run build"
+}
