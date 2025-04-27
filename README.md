@@ -31,11 +31,11 @@ Open a terminal in the backend folder or navigate to it from the root folder via
 | **__Step 2: Frontend Setup__**
 Open a terminal in the frontend folder or navigate to it from the root folder via `cd frontend`. <br> For first time setup, install Node dependencies via `npm install`. (If Node gives you errors, you may need to run additional commands.) <br> Run the frontend via `npm start`. <br> The frontend will then start operating on `http://localhost:3000` and open in your browser of choice.
 
-| To view the demo included in this repository |
+| To view the demos included in this repository |
 | ---------- |
 Navigate to the demo file in the repo <br> Click on the file name to open its preview page. <br> Click the “View raw” button (located in the middle of the screen). <br> The demo will begin downloading automatically.
 
 ## Contributors
-Anthony Al-khafaji @AnthonyAl-khafaji
-Ali Jawad @abjmad
-Austin Scruggs @Austin122002
+- Anthony Al-khafaji @AnthonyAl-khafaji
+- Ali Jawad @abjmad
+- Austin Scruggs @Austin122002
